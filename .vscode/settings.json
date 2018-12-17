@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/apple/miniconda3/envs/py35/bin/python",
+    "python.linting.pylintEnabled": true
+}
